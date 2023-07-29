@@ -74,3 +74,7 @@ hr{
 .hero-tag span{
     color: var(--primary-color)
 }
+
+.pageActive{
+    font-weight: bold;
+}
